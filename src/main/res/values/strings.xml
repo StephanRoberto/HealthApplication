@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Android App</string>
+
+
+    <string-array name="bloodtype">
+        <item>Choices</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>0+</item>
+        <item>0-</item>
+    </string-array>
+
+
+    <string-array name="gender">
+        <item>Select</item>
+        <item>male</item>
+        <item>female</item>
+        <item>other</item>
+
+    </string-array>
+
+
+    <string-array name="options">
+        <item>Select blood type</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>0+</item>
+        <item>0-</item>
+
+    </string-array>
+
+
+
+    <string-array name="doc">
+    <item>Select Specialization</item>
+    <item>Cardiology</item>
+    <item>Dermatology</item>
+    <item>Emergency medicine</item>
+    <item>Internal medicine</item>
+    <item>Family medicine</item>
+    <item>Allergy and Immunology</item>
+    <item>Surgery</item>
+    <item>Neurology</item>
+    <item>Pathology</item>
+    <item>Obstetrics and gynecology</item>
+    <item>Ophthalmology</item>
+    <item>Pediatrics</item>
+    <item>Radiation oncology</item>
+    <item>Urology</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
